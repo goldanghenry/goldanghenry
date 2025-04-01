@@ -1,16 +1,103 @@
-## Hi there 👋
+# Woo Seong Hyeon
+**안녕하세요! 기술로 세상에 가치를 더하는 개발자 우성현입니다.**
 
-<!--
-**goldanghenry/goldanghenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+세탁기와 식기세척기가 가사 노동으로부터 자유를 가져왔듯,  
+**IT기술**을 통해 세상에 가치를 더하고자 합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- **학력**  
+  - 경북대학교 심화컴퓨터공학 전공 (2021.3 ~ 2025.2)
+  - SSAFY 13기 (2025.1 ~ )
+  
+- **학습 및 활동 목표**  
+  - 신입 개발자로서 역량을 키우고, 취업 준비 중에 있습니다.  
+  - 프로젝트와 공모전 등을 통해 개발 실무 중심의 경험을 쌓았습니다.
+
+---
+## 알고리즘 문제 풀이
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wshdhkd)](https://solved.ac/wshdhkd)
+
+---
+
+## Skills
+- **Programming Languages**  
+  Java, Python / C, C++, JavaScript, Kotlin, R
+- **Web Frameworks**  
+  Spring Boot, FastAPI, Flask
+- **Database**  
+  MySQL
+- **Tools & DevOps**  
+  Docker, AWS, Git
+
+---
+
+## Projects
+1. **2024 \| Solve us**  
+   *외국인 근로자를 위한 AI 챗봇 기반 노무 상담 플랫폼*  
+   - 기술 스택: Spring Boot, FastAPI, ChatGPT, RAG, CoVe, LangChain
+
+2. **2024 \| CVA PREDICTOR**  
+   *뇌졸중 AI 예측 서비스*  
+   - 기술 스택: Spring Boot, FastAPI, CatBoost
+   - 사용자 건강 정보를 바탕으로 안전군, 주의군, 위험군을 분류하고 맞춤형 예방 정보 제공
+
+3. **2023 \| 이날 어때?**  
+   *간편한 일정 조율 모바일 앱*  
+   - 기술 스택: Kotlin, Spring Boot
+
+4. **2023 \| 브릿지**  
+   *농아인을 위한 실시간 수화번역 화상회의 플랫폼*  
+   - 기술 스택: WebRTC, YOLO, React, Node.js, FastAPI
+
+5. **2022 \| 간이공사 원스톱 서비스**  
+   *한국가스공사의 간이 공사/용역 관리 체계 디지털 전환*  
+   - 기술 스택: Flask, SQLite, Excel to Html
+
+6. **2022 \| 대구시, 마음과 마음을 잇다**  
+   *코로나19 이후, 심리적 지원과 청소년 학업 소외 문제 해결을 위한 온라인 화상상담 웹 플랫폼*  
+   - 기술 스택: WebRTC, Node.js, Flask
+
+7. **2022 \| 오늘의 이슈**  
+   *네이버 TOP 50 뉴스 크롤링 및 실시간 이슈 분석 및 시각화 웹 사이트*  
+   - 기술 스택: Flask, SQLite, Beautiful Soup, Request, KoNLPy
+
+---
+
+## Educations
+- **2025.1~**: 삼성 청년 소프트웨어 아카데미(SSAFY) 13기  
+- **2021.3 ~ 2025.2**: 경북대학교 심화컴퓨터공학 전공  
+- **2023.1**: Google Design Sprint Camp  
+- **2022.6 ~ 2022.8**: 대구AI허브 Web+AI 실무프로젝트 4기 교육  
+
+---
+
+## Experiences
+- **2023.3 ~ 2023.8 \| 한국전력공사 전력연구원 배전연구소 인턴**  
+  - EVC 데이터 분석 및 데이터 연계 응용 솔루션 개발 연구 참여  
+  - 대규모 데이터 처리 및 분석, 충전기 고장 판별 및 보정 알고리즘 개발  
+  - 클러스터링을 통한 충전 패턴 분석  
+  - 10차례 모델 고도화를 통해 전기차 충전 수요 예측 모델 정확도 40.5% → 79.8% 향상  
+
+---
+
+## Awards
+- **2025** : 한국컴퓨터정보학회 동계학술대회 우수논문상  
+- **2024** : 대한민국 인재상  
+- **2024** : 코드 알파 산학 프로젝트 대구광역시장상  
+- **2024** : 한국정보기술학회 대학생 논문경진대회 금상  
+- **2023** : WE-Meet 프로젝트 인공지능 부문 교육부장관상  
+- **2022** : 대구AI허브 교육 수기 공모전 혁신상  
+- **2022** : 대구경북 스타트업 공대스타 챌린지 대상 (대구경북중소벤처기업청장상)  
+- **2022** : 대구를 빛내는 SW 해커톤 우수상  
+
+---
+
+## Papers
+- **2025**: 한국컴퓨터정보학회, *RAG 및 CoVe를 활용한 노동법 상담 챗봇 개발*  
+- **2024**: 한국정보기술학회, *RAG와 CoVe 기법을 활용한 LLM의 환각 현상 감소 연구*  
+- **2023**: 한국정보과학회, *멀티모달 기반 IP 비디오월 제어 시스템*  
+
+---
