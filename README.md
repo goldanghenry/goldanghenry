@@ -5,32 +5,9 @@
 **IT기술**을 통해 세상에 가치를 더하고자 합니다.
 
 ---
-
-## About Me
-- **학력**  
-  - 경북대학교 심화컴퓨터공학 전공 (2021.3 ~ 2025.2)
-  - SSAFY 13기 (2025.1 ~ )
-  
-- **학습 및 활동 목표**  
-  - 신입 개발자로서 역량을 키우고, 취업 준비 중에 있습니다.  
-  - 프로젝트와 공모전 등을 통해 개발 실무 중심의 경험을 쌓았습니다.
-
----
 ## 알고리즘 문제 풀이
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wshdhkd)](https://solved.ac/wshdhkd)
-
----
-
-## Skills
-- **Programming Languages**  
-  Java, Python / C, C++, JavaScript, Kotlin, R
-- **Web Frameworks**  
-  Spring Boot, FastAPI, Flask
-- **Database**  
-  MySQL
-- **Tools & DevOps**  
-  Docker, AWS, Git
 
 ---
 
